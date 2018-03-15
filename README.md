@@ -7,5 +7,5 @@ This code contains a program which finds the solution of a primary equation. Onc
 # Quadric Equation Solution Application (Q.E.S.A)
 This code contains a program which finds solutions of a quadric equation. Once the user assigns a number in the variables a,b and c, the solution(s) will be printed.
 
-# Credits to: NikoSpinoS
-# E-mail: nikospin@cied.teiwest.gr / mitrogloukostis@gmail.com
+Credits to: NikoSpinoS
+E-mail: nikospin@cied.teiwest.gr / mitrogloukostis@gmail.com
