@@ -54,7 +54,7 @@ OTHER ["!"|"."|"@"|"$"|"%"|"^"|"&"|"_"|]
 
 {ID} if (strlen(yytext) <= 20) {
   count();
-  printf( "found an identifier (%s)\n", yytext );
+  printf( "found an identifier (%s) at line %d\n", yytext,line);
   return(IDENTIFIER);
 } else {
   printf("The identifiers must be 20 characters at maximum.\n");
