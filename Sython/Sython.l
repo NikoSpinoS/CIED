@@ -4,7 +4,6 @@
 #include "define.h"
 #include "add_sym.h"
 FILE *new_file;
-int dec2bin();
 void count();
 void add_bloc_number();
 void reduce_bloc_number();
